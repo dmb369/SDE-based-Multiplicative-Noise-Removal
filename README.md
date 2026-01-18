@@ -206,10 +206,10 @@ python3 metrics_eval.py \
 ## 👤 Authors
 
 * **Dev M. Bandhiya**
-  Department of Mathematics, Mahindra University
+  Student, Mahindra University
 
 * **Dr. Mahipal Jetta**
-  Department of Mathematics, Mahindra University
+  Head, Department of Mathematics, Mahindra University
 
 ---
 
